@@ -2,7 +2,6 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Terms of Service</title>
 </head>
 <body>
   <h1>Terms of Service</h1>
