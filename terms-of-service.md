@@ -73,8 +73,7 @@
     <p>Privacy Policy</p>
   </header>
   <main>
-    <p>Your privacy is important to us. Bean Bot is designed to respect user data and operate transparently.</p>
-
+    
     <h2>Data Collection</h2>
     <ul>
       <li>Bean Bot does <strong>not</strong> collect, store, or share personal data.</li>
@@ -92,7 +91,7 @@
     <p>All operations are confined to the Discord platform and its built-in security measures. No external databases are involved.</p>
 
     <h2>Contact</h2>
-    <p>If you have any questions or concerns about this policy, please reach out via our <a href="YOUR_SUPPORT_SERVER_LINK" target="_blank">Support Server</a>.</p>
+    <p>If you have any questions or concerns about this policy, please reach out via our <a href="https://discord.com/invite/R76estED" target="_blank">Support Server</a>.</p>
   </main>
   <footer>
     &copy; 2025 Bean Bot. All rights reserved.
