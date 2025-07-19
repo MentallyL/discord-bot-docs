@@ -96,7 +96,7 @@
     <p>If you have questions or concerns, please reach out via our <a href="https://discord.com/invite/R76estED" target="_blank">Support Server</a>.</p>
   </main>
   <footer>
-    &copy; 2025 Bean Bot. All rights reserved.
+    Bean Bot
   </footer>
 </body>
 </html>
