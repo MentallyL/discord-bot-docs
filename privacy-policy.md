@@ -89,7 +89,7 @@
     <p>All operations are confined to the Discord platform and its built-in security measures. No external databases are involved.</p>
 
     <h2>Contact</h2>
-    <p>If you have any questions or concerns about this policy, please reach out via our <a href="https://discord.com/invite/R76estED" target="_blank">Support Server</a>.</p>
+    <p>If you have any questions or concerns about this policy, please reach out via our <a href="https://discord.com/invite/9nQQZGNAtE" target="_blank">Support Server</a>.</p>
   </main>
   <footer>
     Bean Bot
