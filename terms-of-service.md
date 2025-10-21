@@ -93,7 +93,7 @@
     <p>We reserve the right to modify these Terms of Service at any time. Continued use of the bot indicates your acceptance of any changes.</p>
 
     <h2>Contact</h2>
-    <p>If you have questions or concerns, please reach out via our <a href="https://discord.com/invite/R76estED" target="_blank">Support Server</a>.</p>
+    <p>If you have questions or concerns, please reach out via our <a href="https://discord.com/invite/9nQQZGNAtE" target="_blank">Support Server</a>.</p>
   </main>
   <footer>
     Bean Bot
